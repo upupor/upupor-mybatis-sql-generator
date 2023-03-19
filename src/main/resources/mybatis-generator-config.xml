@@ -81,58 +81,58 @@
              domainObjectName 是要生成的实体类名(可以不指定，默认按帕斯卡命名法将表名转换成类名)
              enableXXXByExample 默认为 true， 为 true 会生成一个对应Example帮助类，帮助你进行条件查询，不想要可以设为false
              -->
-        <table schema="" tableName="actual_creative"
-               enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               enableUpdateByExample="false" selectByExampleQueryId="false">
-            <!--是否使用实际列名,默认为false-->
-            <!--<property name="useActualColumnNames" value="false" />-->
-        </table>
+<!--        <table schema="" tableName="actual_creative"-->
+<!--               enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"-->
+<!--               enableUpdateByExample="false" selectByExampleQueryId="false">-->
+<!--            &lt;!&ndash;是否使用实际列名,默认为false&ndash;&gt;-->
+<!--            &lt;!&ndash;<property name="useActualColumnNames" value="false" />&ndash;&gt;-->
+<!--        </table>-->
 
 
-        <table schema="" tableName="actual_creative_item"
-               enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               enableUpdateByExample="false" selectByExampleQueryId="false">
-            <!--是否使用实际列名,默认为false-->
-            <!--<property name="useActualColumnNames" value="false" />-->
-        </table>
+<!--        <table schema="" tableName="actual_creative_item"-->
+<!--               enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"-->
+<!--               enableUpdateByExample="false" selectByExampleQueryId="false">-->
+<!--            &lt;!&ndash;是否使用实际列名,默认为false&ndash;&gt;-->
+<!--            &lt;!&ndash;<property name="useActualColumnNames" value="false" />&ndash;&gt;-->
+<!--        </table>-->
 
 
-        <table schema="" tableName="creative"
-               enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               enableUpdateByExample="false" selectByExampleQueryId="false">
-            <!--是否使用实际列名,默认为false-->
-            <!--<property name="useActualColumnNames" value="false" />-->
-        </table>
+<!--        <table schema="" tableName="creative"-->
+<!--               enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"-->
+<!--               enableUpdateByExample="false" selectByExampleQueryId="false">-->
+<!--            &lt;!&ndash;是否使用实际列名,默认为false&ndash;&gt;-->
+<!--            &lt;!&ndash;<property name="useActualColumnNames" value="false" />&ndash;&gt;-->
+<!--        </table>-->
 
-        <table schema="" tableName="creative_item"
-               enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               enableUpdateByExample="false" selectByExampleQueryId="false">
-            <!--是否使用实际列名,默认为false-->
-            <!--<property name="useActualColumnNames" value="false" />-->
-        </table>
+<!--        <table schema="" tableName="creative_item"-->
+<!--               enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"-->
+<!--               enableUpdateByExample="false" selectByExampleQueryId="false">-->
+<!--            &lt;!&ndash;是否使用实际列名,默认为false&ndash;&gt;-->
+<!--            &lt;!&ndash;<property name="useActualColumnNames" value="false" />&ndash;&gt;-->
+<!--        </table>-->
 
-        <table schema="" tableName="creative_log"
-               enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               enableUpdateByExample="false" selectByExampleQueryId="false">
-            <!--是否使用实际列名,默认为false-->
-            <!--<property name="useActualColumnNames" value="false" />-->
-        </table>
+<!--        <table schema="" tableName="creative_log"-->
+<!--               enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"-->
+<!--               enableUpdateByExample="false" selectByExampleQueryId="false">-->
+<!--            &lt;!&ndash;是否使用实际列名,默认为false&ndash;&gt;-->
+<!--            &lt;!&ndash;<property name="useActualColumnNames" value="false" />&ndash;&gt;-->
+<!--        </table>-->
 
-        <table schema="" tableName="dynamic_item"
-               enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               enableUpdateByExample="false" selectByExampleQueryId="false">
-            <!--是否使用实际列名,默认为false-->
-            <!--<property name="useActualColumnNames" value="false" />-->
-        </table>
+<!--        <table schema="" tableName="dynamic_item"-->
+<!--               enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"-->
+<!--               enableUpdateByExample="false" selectByExampleQueryId="false">-->
+<!--            &lt;!&ndash;是否使用实际列名,默认为false&ndash;&gt;-->
+<!--            &lt;!&ndash;<property name="useActualColumnNames" value="false" />&ndash;&gt;-->
+<!--        </table>-->
 
-        <table schema="" tableName="element"
-               enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               enableUpdateByExample="false" selectByExampleQueryId="false">
-            <!--是否使用实际列名,默认为false-->
-            <!--<property name="useActualColumnNames" value="false" />-->
-        </table>
+<!--        <table schema="" tableName="element"-->
+<!--               enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"-->
+<!--               enableUpdateByExample="false" selectByExampleQueryId="false">-->
+<!--            &lt;!&ndash;是否使用实际列名,默认为false&ndash;&gt;-->
+<!--            &lt;!&ndash;<property name="useActualColumnNames" value="false" />&ndash;&gt;-->
+<!--        </table>-->
 
-          <table schema="" tableName="extend_data"
+          <table schema="" tableName="export_campaign_data"
                enableCountByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
                enableUpdateByExample="false" selectByExampleQueryId="false">
             <!--是否使用实际列名,默认为false-->
