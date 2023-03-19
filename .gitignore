@@ -35,5 +35,5 @@ logs/
 # Package Files #
 *.ear
 /disconf
-/src/main/java
+/src/main/java/
 /src/main/resources/mapper
